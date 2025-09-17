@@ -1,7 +1,7 @@
 ## Oiii eu sou a Guilherme Oliveira, especialista em teste de sofware!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+💻 Sobre mim
+Profissional apaixonado por Desenvolvimento de Sistemas com sólida especialização em Garantia da Qualidade de Software (QA). Minha missão é assegurar entregas de alto nível, combinando testes manuais com metodologias ágeis e foco em resultados.
 
 <div align="center">
 </div>
