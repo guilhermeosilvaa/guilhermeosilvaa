@@ -49,8 +49,4 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
 </div>
 
-##
 
-<img src="https://raw.githubusercontent.com/guilhermeosilvaa/guilhermeosilvaa/output/snake.svg" alt="Snake animation" />
-
-##
