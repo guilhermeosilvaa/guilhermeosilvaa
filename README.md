@@ -5,6 +5,7 @@ Profissional apaixonado por Desenvolvimento de Sistemas com s√≥lida especializa√
 
 <div align="center">
 </div>
+Tecnologias
 
 ###
 
