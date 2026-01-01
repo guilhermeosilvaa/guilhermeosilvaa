@@ -1,7 +1,7 @@
 ## Oiii eu sou a Guilherme Oliveira, especialista em teste de sofware!
 
 💻 Sobre mim
-Profissional apaixonado por Desenvolvimento de Sistemas com sólida especialização em Garantia da Qualidade de Software (QA). Minha missão é assegurar entregas de alto nível, combinando testes manuais com metodologias ágeis e foco em resultados.
+Profissional apaixonado por Desenvolvimento de Sistemas com sólida especialização em Garantia da Qualidade de Software (QA). Minha missão é assegurar entregas de alto nível, combinando testes manuais com metodologias ágeis e foco em resultados
 
 <div align="center">
 </div>
