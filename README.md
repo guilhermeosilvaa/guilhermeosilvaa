@@ -1,31 +1,5 @@
 ## Oiii eu sou a Guilherme Oliveira, especialista em teste de sofware!
 
-💻 Sobre mim
-ou um profissional apaixonado por Desenvolvimento de Sistemas, com forte especialização em Garantia da Qualidade de Software (QA). Atuo para garantir entregas de alto nível, unindo testes manuais, metodologias ágeis e foco em resultados.
-
-Principais competências
-
-Testes manuais em Front End e Back End
-
-Testes de API e Performance (Postman, JMeter, SoapUI)
-
-CI/CD com Azure DevOps
-
-BDD com Gherkin e Cucumber
-
-Banco de dados: SQL e MongoDB
-
-Ferramentas: Jira, Trello e Confluence
-
-Diferenciais
-
-Visão de qualidade desde o início do desenvolvimento (Shift Left Testing)
-
-Atuação sólida em Scrum e Kanban
-
-Foco em melhoria contínua, colaboração e resultados
-
-Capacidade de traduzir requisitos de negócio em soluções técnicas eficientes
 
 <div align="center">
 </div>
