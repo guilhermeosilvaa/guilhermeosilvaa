@@ -1,45 +1,57 @@
-## Oiii eu sou a Guilherme Oliveira, especialista em teste de sofware!
-💻 Sobre mim
-ou um profissional apaixonado por Desenvolvimento de Sistemas, com forte especialização em Garantia da Qualidade de Software (QA). Atuo para garantir entregas de alto nível, unindo testes manuais, metodologias ágeis e foco em resultados.
+## Oi eu sou a Guilherme Oliveira, especialista em teste de sofware!
 
-<div align="center">
-</div>
-Tecnologias
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sofware+Test+Analyst+in+Python%F0%9F%90%8D)](https://git.io/typing-svg)
 
-###
 
-<img align="right" height="150" src="https://media.tenor.com/AMT-eMhjSywAAAAi/sappy-seals.gif"  />
+## 🧑‍💻 Sobre Mim
 
-###
+Sou um profissional com expêriencia em **Testes Manuais** e **Automação de Teste**. Acredito que o melhor produto nasce quando quem projeta também entende como construir.
 
-<div align="left">
+- 🤖 Analista de Teste com foco em Testes Manuais e Automatizados
+- ⚛️ Frontend com Javascript 
+- 🔧 Backend com Python 
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="33" width= f alt="Python logo" />     
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="33" width= f alt="azuredevops logo" />
-  <img width="14" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="33" width= f alt="github logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="33" alt="playwright logo" />
-  <img width="14" />       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="33" alt="postgresql logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="33" alt="jira logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="33" alt="confluence logo"  />
-</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### • Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
-##
 
- Contatos Sociais 
-<div> 
-  <a href="https://www.linkedin.com/in/guilhermeosilva2406/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/gui_cafezinho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/cafezinho2406" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:guilhermeosilva2406@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+
+### • Frameworks & Libraries
+![Json](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+	
+
+### • Tools & Testing
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
+### • Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### • Design & Architecture
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=docker&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+
+---
+
+## 📫 Vamos Conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeosilva2406/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeosilva2406@gmail.com.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511978673093)
 
 
 
