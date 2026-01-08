@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Sou um profissional com expêriencia em **Testes Manuais** e **Automação de Teste**. Acredito que o melhor produto nasce quando quem projeta também entende como construir.
+Sou um profissional com expêriencia em **Testes Manuais** e **Automação de Teste**. Acredito que o melhor produto nasce quando quem testa também entende como construir.
 
 - 🤖 Analista de Teste com foco em Testes Manuais e Automatizados
 - ⚛️ Frontend com Javascript 
