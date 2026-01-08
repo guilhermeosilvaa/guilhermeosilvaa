@@ -1,6 +1,6 @@
 ## Oi eu sou a Guilherme Oliveira, especialista em teste de sofware!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sofware+Test+Analyst+in+Python%F0%9F%90%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Test+Analyst+in+Python%F0%9F%90%8D)](https://git.io/typing-svg)
 
 
 ## 🧑‍💻 Sobre Mim
