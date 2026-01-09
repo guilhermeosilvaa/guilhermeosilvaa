@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Test+Analyst+in+Python%F0%9F%90%8D)](https://git.io/typing-svg)
 
 
-## 🧑‍💻 Sobre Mim
+## 🧑‍💻 Sobre Mim 
 
 Sou um profissional com expêriencia em **Testes Manuais** e **Automação de Teste**. Acredito que o melhor produto nasce quando quem testa também entende como construir.
 
