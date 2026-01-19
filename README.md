@@ -9,7 +9,7 @@ Sou um profissional com expêriencia em **Testes Manuais** e **Automação de Te
 
 - 🤖 Analista de Teste com foco em Testes Manuais e Automatizados
 - ⚛️ Frontend com Javascript 
-- 🔧 Backend com Python 
+- 🔧 Backend com Python  
   
 
 ---
