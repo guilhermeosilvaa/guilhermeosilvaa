@@ -1,6 +1,6 @@
 ## Hi, I am Guilherme Oliveira, a software testing specialist!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Test+Analyst+in+Python%F0%9F%90%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B6CF7&width=435&lines=Java+Software+Tester+%E2%98%95)](https://git.io/typing-svg)
 
 
 ## 🧑‍💻 About Me
@@ -9,7 +9,7 @@ I am a professional with experience in **Manual Testing** and **Test Automation*
 
 - 🤖 Test Analyst focused on Manual and Automated Testing
 - ⚛️ Frontend with JavaScript
-- 🔧 Backend with Java and Python
+- 🔧 Backend with Java 
   
 
 ---
