@@ -1,15 +1,15 @@
-## Oi eu sou a Guilherme Oliveira, especialista em teste de sofware!
+## Hi, I am Guilherme Oliveira, a software testing specialist!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Test+Analyst+in+Python%F0%9F%90%8D)](https://git.io/typing-svg)
 
 
-## 🧑‍💻 Sobre Mim 
+## 🧑‍💻 About Me
 
-Sou um profissional com expêriencia em **Testes Manuais** e **Automação de Teste**. Acredito que o melhor produto nasce quando quem testa também entende como construir.
+I am a professional with experience in **Manual Testing** and **Test Automation**. I believe that the best product is created when those who test also understand how to build it.
 
-- 🤖 Analista de Teste com foco em Testes Manuais e Automatizados
-- ⚛️ Frontend com Javascript 
-- 🔧 Backend com Python  
+- 🤖 Test Analyst focused on Manual and Automated Testing
+- ⚛️ Frontend with JavaScript
+- 🔧 Backend with Java and Python
   
 
 ---
@@ -48,7 +48,7 @@ Sou um profissional com expêriencia em **Testes Manuais** e **Automação de Te
 
 ---
 
-## 📫 Vamos Conversar?
+## 📫 Shall we talk?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeosilva2406/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeosilva2406@gmail.com.com)
