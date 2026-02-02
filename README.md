@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a professional with experience in **Manual Testing** and **Test Automation**. I believe that the best product is created when those who test also understand how to build it.
+I am a professional with experience in **Manual Testing** and **Test Automation**. I believe that the best product is created when those who test also understand how to build it. 
 
 - 🤖 Test Analyst focused on Manual and Automated Testing
 - ⚛️ Frontend with JavaScript
