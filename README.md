@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B6CF7&width=435&lines=Java+Software+Tester+%E2%98%95)](https://git.io/typing-svg)
 
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me  
 
 I am a professional with experience in **Manual Testing** and **Test Automation**. I believe that the best product is created when those who test also understand how to build it. 
 
