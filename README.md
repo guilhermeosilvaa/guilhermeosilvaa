@@ -1,40 +1,23 @@
-## Hi, I am Guilherme Oliveira, a software testing specialist!
+## Olá, eu sou Guilherme Oliveira, um especialista em testes de software!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B6CF7&width=435&lines=Java+Software+Tester+%E2%98%95)](https://git.io/typing-svg)
 
+## 🧑‍💻 Sobre Mim
 
-## 🧑‍💻 About Me    
+Sou um profissional com experiência em **Testes Manuais** e **Automação de Testes**. Acredito que o melhor produto é criado quando aqueles que testam também entendem como construí-lo.
 
-I am a professional with experience in **Manual Testing** and **Test Automation**. I believe that the best product is created when those who test also understand how to build it. 
-
-- 🤖 Test Analyst focused on Manual and Automated Testing
-- ⚛️ Frontend with JavaScript
-- 🔧 Backend with Java 
-  
+- 🤖 Analista de Testes focado em Testes Manuais e Automatizados
+- ⚛️ Frontend com JavaScript
+- 🔧 Backend com Java
 
 ---
 
-## 🛠️ Tech Stack
-
-### • Languages 
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-
-
-### • Frameworks & Libraries
-![Json](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-	
-
-### • Tools & Testing
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0089D6?style=for-the-badge&logo=Bitbucket&logoColor=white)
-
+### • Linguagens 
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+### • Frameworks & Bibliotecas
+![Json](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) 
+### • Ferramentas & Testes 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0089D6?style=for-the-badge&logo=Bitbucket&logoColor=white)
 
 ### • Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -48,7 +31,7 @@ I am a professional with experience in **Manual Testing** and **Test Automation*
 
 ---
 
-## 📫 Shall we talk?
+## 📫 Vamos conversar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeosilva2406/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeosilva2406@gmail.com)
