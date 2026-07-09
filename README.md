@@ -3,7 +3,7 @@
 🚀 **Mid-level Test Engineer | Selenium & Java**  
 🇧🇷 Brazil
 
-I test **scalable products**, **various platforms like government, banks, and telecom**.  
+I test **scalable products**, **various platforms like government, banks and telecom**.  
 
 I’m very focused on **Test Automation**, performance, clean code, and business-focused solutions.
 
