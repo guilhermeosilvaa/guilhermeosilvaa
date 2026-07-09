@@ -21,3 +21,18 @@ I’m very focused on **Test Automation**, performance, clean code, and business
   </a>
   
   </p>
+
+---
+
+## 🧠 What I do
+
+-  🤖 Test Automation
+- ⚡ Performance Optimization
+- 🧩 Clean Architecture and System Design
+- 🔐 Secure APIs and Authentication
+- 💳 Payments, Subscriptions, and Business Logic
+- 📊 Dashboards and Analytics
+
+---
+
+## 🛠️ Tech Stack
