@@ -15,11 +15,9 @@ I’m very focused on **Test Automation**, performance, clean code, and business
   <a href="https://github.com/guilhermeosilvaa">
     <img src="https://img.shields.io/badge/GitHub-guilhermeosilvaa-181717?style=for-the-badge&logo=github" />
   </a>
-  
   <a href="https://www.instagram.com/gui_cafezinho/">
     <img src="https://img.shields.io/badge/Instagram-@Gui_cafezinho-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/guilhermeosilva2406/">
     <img src="https://img.shields.io/badge/Linkdean-Guilherme Oliveira-403AED?style=for-the-badge&logo=Linkdean&logoColor=blue" />
   </a>
