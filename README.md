@@ -20,7 +20,7 @@ I’m very focused on **Test Automation**, performance, clean code, and business
     <img src="https://img.shields.io/badge/Instagram-@Gui_cafezinho-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/gui_cafezinho/">
+  <a href="https://www.linkedin.com/in/guilhermeosilva2406/">
     <img src="https://img.shields.io/badge/Linkdean-Guilherme Oliveira-403AED?style=for-the-badge&logo=Linkdean&logoColor=blue" />
   </a>
   
