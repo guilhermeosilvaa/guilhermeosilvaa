@@ -76,7 +76,7 @@ I’m very focused on **Test Automation**, performance, clean code, and business
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideass.
 
-    
+---    
 
 
 
