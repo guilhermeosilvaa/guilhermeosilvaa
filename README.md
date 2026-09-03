@@ -1,6 +1,6 @@
 # Hiii 👋, I'm Guilherme Oliveira
 
-🚀 **Mid-level Test Engineer | Selenium & Java**  
+🚀 **Junior Test Engineer | Selenium & Java**  
 🌎 🇧🇷 Brazil
 
 I test **scalable products**, **various platforms like government, banks and telecom**.  
